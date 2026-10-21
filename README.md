@@ -32,7 +32,7 @@ The application supports **English, Portuguese, and Spanish**, making its main i
 - **Embedded Local AI Assistant:** Ask cybersecurity and password-security questions using an integrated GGUF language model, powered by `llama-cpp-python`.
 - **Local Storage:** SQLite database for persistent application data.
 - **Multilingual Interface:** Portuguese, English, and Spanish.
-- **Offline Operation:** Core features work locally without cloud-based password processing.
+- **Offline Operation:** All features work locally without cloud-based password processing.
 
 ### Target Audience
 
@@ -137,7 +137,7 @@ Sua interface oferece suporte a **português, inglês e espanhol**.
 - **Assistente de IA Local:** Oferece respostas sobre segurança digital e senhas por meio de um modelo GGUF integrado, executado com `llama-cpp-python`.
 - **Armazenamento Local:** Utiliza SQLite para persistência dos dados.
 - **Interface Multilíngue:** Disponível em português, inglês e espanhol.
-- **Funcionamento Offline:** Os recursos principais funcionam localmente, sem processamento de senhas na nuvem.
+- **Funcionamento Offline:** Os recursos funcionam localmente, sem processamento de senhas na nuvem.
 
 ### Público-Alvo
 
@@ -242,7 +242,7 @@ La interfaz está disponible en **portugués, inglés y español**.
 - **Asistente de IA Local:** Responde preguntas sobre ciberseguridad y protección de contraseñas mediante un modelo GGUF integrado, ejecutado con `llama-cpp-python`.
 - **Almacenamiento Local:** Utiliza SQLite para conservar los datos.
 - **Interfaz Multilingüe:** Disponible en portugués, inglés y español.
-- **Funcionamiento sin Conexión:** Las funciones principales se ejecutan localmente, sin procesamiento de contraseñas en la nube.
+- **Funcionamiento sin Conexión:** Las funciones se ejecutan localmente, sin procesamiento de contraseñas en la nube.
 
 ### Público Objetivo
 
